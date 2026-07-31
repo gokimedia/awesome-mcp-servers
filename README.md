@@ -341,6 +341,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Contentful](https://github.com/ivo-toby/contentful-mcp)** - Interact with your content on the Contentful platform
 - **[consult7](https://github.com/szeider/consult7)** - Analyze large codebases and document collections using high-context models via OpenRouter, OpenAI, or Google AI -- very useful, e.g., with Claude Code
 - **[Data Exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration)** - MCP server for autonomous data exploration on .csv-based datasets, providing intelligent insights with minimal effort.
+- **[Deckaura Tarot](https://github.com/gokimedia/tarot-mcp-server)** - Complete 78-card tarot meanings, upright and reversed interpretations, love and career readings, yes-or-no answers, random draws, and three-card spreads. Install with `npx -y @deckaura/tarot-mcp-server`.
 - **[DropBin](https://dropbin.org/mcp)** - Remote SSE MCP server for hosting HTML webpages and sharing content through temporary URLs without authentication
 - **[Database](https://github.com/TheRaLabs/legion-mcp)** (by Legion AI) - Universal database MCP server supporting multiple database types including PostgreSQL, Redshift, CockroachDB, MySQL, RDS MySQL, Microsoft SQL Server, BigQuery, Oracle DB, and SQLite
 - **[Druid MCP Server](https://github.com/iunera/druid-mcp-server)** - STDIO/SEE MCP Server for Apache Druid by [iunera](https://www.iunera.com) that provides extensive tools, resources, and prompts for managing and analyzing Druid clusters.
